@@ -77,6 +77,8 @@ pytest --html=reports/report.html --self-contained-html
 
 Open the `report.html` file in the `reports/` directory using any browser.
 
+![Report](reports/00.png)
+
 ---
 
 ## 🧰 Technologies & Tools Used
